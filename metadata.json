@@ -1,0 +1,6 @@
+{
+  "name": "LUM",
+  "description": "Plataforma educativa de comprensión matemática y descubrimiento de talentos, con portales independientes para docentes y estudiantes, asistente de voz Lumy y seguimiento para padres.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
